@@ -7,4 +7,4 @@ Alternus Vera Project
 3. Anu Sebastian
 
 ## Work Flow 
-![alt text]( "https://github.com/anuksebastian/AlternusVera/blob/master/workflow.PNG AlternusVera-WorkFlow")
+<img src="https://github.com/anuksebastian/AlternusVera/blob/master/workflow.PNG" alt="drawing" style="width:200px;"/>
