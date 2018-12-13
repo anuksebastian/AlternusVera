@@ -7,7 +7,7 @@ Alternus Vera Project
 3. Anu Sebastian - 012496276
 
 ## Work Flow 
-<img src="https://github.com/anuksebastian/AlternusVera/blob/master/workflow.PNG" width="100" height="100" />
+<img src="https://github.com/anuksebastian/AlternusVera/blob/master/workflow.PNG" width="400" height="100" />
 
 ## Process Flow 
-<img src="https://github.com/anuksebastian/AlternusVera/blob/master/ProcessFlow.jpeg" width="100" height="100" />   
+<img src="https://github.com/anuksebastian/AlternusVera/blob/master/ProcessFlow.jpeg" width="300" height="400" />   
