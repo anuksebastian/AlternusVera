@@ -2,9 +2,9 @@
 Alternus Vera Project
 
 ## Team : 3 musketeers 
-Saloni Sharad Bhalerao 
-Ravali Nagabandi
-Anu Sebastian
+1. Saloni Sharad Bhalerao 
+2. Ravali Nagabandi
+3. Anu Sebastian
 
 ## Work Flow 
-![alt text]( "AlternusVera-WorkFlow")
+![alt text]( "https://github.com/anuksebastian/AlternusVera/blob/master/workflow.PNG AlternusVera-WorkFlow")
